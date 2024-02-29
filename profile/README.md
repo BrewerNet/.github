@@ -1,4 +1,4 @@
-# Welcome to the Coffee Bean Community 👋
+# Welcome to The Coffee Bean Community 👋
 
 **:star: About the Community :star:**
 
@@ -10,7 +10,7 @@ We founded the server recognizing the challenge of locating dependable team memb
 
 - [Welcome to the Coffee Bean Community](#welcome-to-the-coffee-bean-community-)
   - [About the Community](#about-the-community-)
-- [Contribution Guidelines for Buy Me a Coffee (BMC)](#contribution-guidelines-for-buy-me-a-coffee-bmc)
+- [#1 Contribution Guidelines for Buy Me a Coffee (BMaC)](#contribution-guidelines-for-buy-me-a-coffee-bmc)
   - [Welcome to BMaC’s Business Proposal](#welcome-to-bmac’s-business-proposal)
     - [Executive Summary](#executive-summary)
     - [How to Contribute](#how-to-contribute)
@@ -21,7 +21,7 @@ We founded the server recognizing the challenge of locating dependable team memb
     - [Grow With Us](#grow-with-us)
     - [Stay Connected](#stay-connected)
 
-## Contribution Guidelines for Buy Me a Coffee (BMC)
+## Contribution Guidelines for Buy Me a Coffee (BMaC)
 
 🙏 We appreciate your kindness and eagerness to help! Before you start your pull request, please ensure you've read these guidelines carefully. They will guide you on who we are, how our organization operates, and how you can begin contributing.
 
